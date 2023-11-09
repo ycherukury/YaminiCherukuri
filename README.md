@@ -9,7 +9,9 @@ My skill set encompasses a wide range of data-related tasks, including data extr
 I am a dedicated individual with a strong passion for analytics. I believe in transforming businesses through data-driven decision-making and the fact that advanced analytics can advance efficiency and performance and shape businesses. I am committed to advancing my career by applying my strong analytical and communication skills to the analytics domain. I aspire to explore roles as a Data Analyst, Business Analyst, and Data Scientist where I believe I can make an impact.
 
 Contact Me:
+
 LinkedIn: https://www.linkedin.com/in/ycherukuri/
+
 Email: ycherukury@gmail.com
 
 # SKILLS, TOOLS, & TECHNOLOGIES
